@@ -6,7 +6,9 @@
 
 Desarrollado con fines académicos como Proyecto Final para las asignaturas **Base de Datos Multimedia** y **Programación Web de Capa Intermedia**. Es una plataforma web que tiene como fin que cualquier persona pueda compartir sus conocimientos por medio de cursos diseñados para que puedan ser consumidos de forma autodidacta.
 
-Hubo que diseñar y modelar una base de datos con sus Tablas, Vistas, Triggers, Stored Procedures, y Funciones.
+Hubo que diseñar y modelar una base de datos con sus [Tablas](https://github.com/NobleD4/BDM-PWCI_CoursesManagement/blob/main/SQL%20Database/1-TABLES.sql), [Vistas](https://github.com/NobleD4/BDM-PWCI_CoursesManagement/blob/main/SQL%20Database/2-VIEWS.sql), [Triggers](https://github.com/NobleD4/BDM-PWCI_CoursesManagement/blob/main/SQL%20Database/3-TRIGGERS.sql), [Stored Procedures](https://github.com/NobleD4/BDM-PWCI_CoursesManagement/blob/main/SQL%20Database/4-STORED%20PROCEDURES.sql), y [Funciones](https://github.com/NobleD4/BDM-PWCI_CoursesManagement/blob/main/SQL%20Database/5-FUNCTIONS.sql).
+
+<img width="493" height="690" alt="BDM_Modelo-Relacional-v4" src="https://github.com/user-attachments/assets/331e8b95-609d-4d70-a66d-c152405f687c" />
 
 Finalizado en *Noviembre del 2024*.
 
