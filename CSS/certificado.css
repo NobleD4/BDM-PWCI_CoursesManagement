@@ -1,0 +1,104 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.diploma-container {
+    width: 80%;
+    max-width: 900px;
+    background-color: #fff;
+    border: 10px solid #d4af37;
+    padding: 30px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    position: relative;
+    text-align: center;
+    border-radius: 10px;
+}
+
+/* Cinta decorativa en la parte superior */
+.ribbon {
+    background-color: #d4af37;
+    height: 20px;
+    width: 100%;
+    position: absolute;
+    top: -20px;
+    left: 0;
+    border-radius: 10px 10px 0 0;
+}
+
+/* Estilo del nombre del sitio web */
+.website-name h2 {
+    font-size: 24px;
+    color: #d4af37;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+/* Estilos para la cabecera del diploma */
+.header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #333;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.header h3 {
+    font-size: 24px;
+    margin-bottom: 30px;
+    color: #555;
+    font-style: italic;
+}
+
+/* Estilos para el nombre del estudiante */
+.student-name h2 {
+    font-size: 28px;
+    margin: 20px 0;
+    color: #000;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+/* Cuerpo del diploma con los detalles */
+.body p {
+    font-size: 18px;
+    color: #333;
+    margin: 15px 0;
+}
+
+.body h3 {
+    font-size: 22px;
+    margin: 15px 0;
+    color: #000;
+    font-weight: bold;
+}
+
+.body span {
+    font-weight: bold;
+    font-style: italic;
+    color: #d4af37;
+}
+
+/* Pie de página con la firma */
+.footer .signature {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.footer .signature p {
+    margin: 5px 0;
+    font-size: 16px;
+    color: #333;
+}
+
+.footer .signature p:first-of-type {
+    margin-top: 30px;
+    font-size: 18px;
+    color: #000;
+}
